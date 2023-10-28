@@ -975,6 +975,7 @@ footer {
     display: flex;
     justify-content: space-between;
     align-items: center;
+    background-color: #dad8d8;
 }
 
 footer h4 {
